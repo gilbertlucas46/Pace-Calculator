@@ -28,7 +28,7 @@ Once we receive your work, we'll evaluate it based on:
 - The appearance and the UX quality of the end product (although you're not required to possess the full skill set of a UX designer for this position, your design sense and ability to make small design decisions adds significant value to your work).
 
 ## Note:
-Please deploy it somewhere we can test
+Please deploy it somewhere we can test ex: Heroku, Vercel
 
 ## Questions
 For any questions at all, you may contact me at [lucas@gilbert.codes](lucas@gilbert.codes).
