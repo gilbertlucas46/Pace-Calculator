@@ -29,7 +29,7 @@ Once we receive your work, we'll evaluate it based on:
 
 ## Note:
 - Deploy it somewhere we can test ex: [Heroku](https://www.heroku.com/), [Vercel](https://vercel.com/)
-- Send us the link
+- Send us the test link and the repo where you published it
 
 ## Questions
 For any questions at all, you may contact me at [lucas@gilbert.codes](lucas@gilbert.codes).
